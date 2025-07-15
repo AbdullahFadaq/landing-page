@@ -4,7 +4,52 @@ body {
     box-sizing: border-box;
      display: flex;
     flex-direction: column;
-    align-items: center;
+}
+
+.section1, footer{
+    background-color: #1f2937;
+    color: #fff;
+}
+
+
+.header, .hero-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 90px;
+}
+
+.logo, .hero-left {
+    margin-left: 300px;
+}
+
+.links, .placeholder-image {
+    margin-right: 300px;
+}
+
+.placeholder-image {
+    width: 450px;
+    height: 240px ;
+}
+
+.links {
+    display: flex;
+    gap: 30px;
+}
+
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    max-width: 400px;
+}
+
+
+
+
+a {
+text-decoration: none;
+color: #fff;
 }
 
 
