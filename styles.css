@@ -8,7 +8,6 @@ body {
 
 .section1, footer{
     background-color: #1f2937;
-    color: #fff;
 }
 
 
@@ -37,19 +36,37 @@ body {
     gap: 30px;
 }
 
+.logo {
+    font-size: 24px;
+    color: #faf9f8;
+}
+
 
 .main-text {
     font-size: 48px;
     font-weight: 900;
-    max-width: 400px;
+    width: 400px;
+    color: #faf9f8;
 }
+.sub-text {
+    width: 420px;
+    margin-bottom: 30px;
+}
+
+
+
+.sub-text, .links a{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
 
 
 
 
 a {
 text-decoration: none;
-color: #fff;
 }
 
 
