@@ -4,6 +4,7 @@ body {
     box-sizing: border-box;
      display: flex;
     flex-direction: column;
+    font-family: "Roboto", sans-serif;
 }
 
 .section1, footer{
@@ -111,8 +112,8 @@ body {
 
 .quote-author {
     align-self: stretch;
-    font-size: 36px;
-    font-weight:900 ;
+    font-size: 26px;
+    font-weight:400 ;
     text-align: center;
     margin-left: 50%;
 }
@@ -120,6 +121,8 @@ body {
 
 .section4 {
     padding: 100px 0;
+    display: flex;
+    justify-content: center;
 }
 
 
@@ -129,12 +132,12 @@ body {
     align-items: center;
     gap: 150px;
     width: 50%;
-    margin: auto;
     border-radius: 10px;
     padding: 20px 0;
     background-color: #3882f6;
     color: #ffff;
 }
+
 
 .call-container h1 {
     font-size: 28px;
