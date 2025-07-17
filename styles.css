@@ -118,12 +118,58 @@ body {
 }
 
 
+.section4 {
+    padding: 100px 0;
+}
 
+
+.call-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 20px 0;
+    background-color: #3882f6;
+    color: #ffff;
+}
+
+.call-container h1 {
+    font-size: 28px;
+}
+
+.call-container p {
+    font-size: 16px;
+}
+
+
+.signup {
+    background-color: #3882f6;
+    color: #ffff;
+    padding: 8px 24px;
+    border: none;
+    border-radius: 7px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.call-container .signup {
+    border: solid 2px #fff;
+}
 
 
 
 a {
 text-decoration: none;
+}
+
+
+footer {
+    padding: 40px;
+    text-align: center;
+    color: #fff;
 }
 
 
