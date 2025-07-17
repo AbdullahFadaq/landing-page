@@ -13,10 +13,10 @@ Photo by Photo By: Kaboompics.com: https://www.pexels.com/photo/photograph-of-a-
 
 Information section images:
 Image 1:
- Photo by cottonbro studio: https://www.pexels.com/photo/person-holding-a-paper-taped-on-a-wall-3826579/
+ Photo by Anna Nekrashevich: https://www.pexels.com/photo/magnifying-glass-on-top-of-document-6801648/
 
  image 2:
- Photo by Lukas: https://www.pexels.com/photo/person-holding-blue-ballpoint-pen-on-white-notebook-669610/
+ Photo by Lukas: https://www.pexels.com/photo/per-son-holding-blue-ballpoint-pen-on-white-notebook-669610/
 
  image 3:
  Photo by Lukas: https://www.pexels.com/photo/person-encoding-in-laptop-574071/
